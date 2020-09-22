@@ -2,4 +2,4 @@ logs/
 conf/
 app/public/
 
-!app/public/wp-content/themes/
+!app/public/wp-content/themes/rest/
