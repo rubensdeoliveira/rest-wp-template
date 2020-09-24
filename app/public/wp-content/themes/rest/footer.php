@@ -1,4 +1,4 @@
-<footer>
+		<footer>
 			<nav class="nav-footer">
 				<ul>
 					<li class="current_page_item"><a href="index.html">Menu</a></li>
@@ -10,8 +10,8 @@
 			<p>Rest © 2015. Alguns direitos reservados.</p>
 		</footer>
 
-        <!-- Footer wordpress -->
-        <?php wp_footer(); ?>
+		<!-- Footer wordpress -->
+		<?php wp_footer(); ?>
     <!-- Footer wordpress -->
 	</body>
 </html>
